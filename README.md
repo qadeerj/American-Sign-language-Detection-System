@@ -1,3 +1,4 @@
+# **American Sign language Detection and Translator System**
 ## **Overview**  
 This project, *Sign Language to Speech Conversion using Machine Learning*, enables the recognition of American Sign Language (ASL) gestures and converts them into spoken words or sentences. It is designed to bridge the communication gap for individuals who use sign language. 
 
