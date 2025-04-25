@@ -1,9 +1,6 @@
 ## **Overview**  
 This project, *Sign Language to Speech Conversion using Machine Learning*, enables the recognition of American Sign Language (ASL) gestures and converts them into spoken words or sentences. It is designed to bridge the communication gap for individuals who use sign language. 
 
-🔗[Video Demonstration on LinkedIn](https://www.linkedin.com/posts/tanmay-jivnani_capstoneproject-machinelearning-signlanguagerecognition-activity-7267174165739184128-VdZB?utm_source=share&utm_medium=member_desktop)
-
-
 ## 🎯 Features
 
 - **Real-Time Recognition**: Converts live webcam feed into recognized gestures.
@@ -22,19 +19,14 @@ This project, *Sign Language to Speech Conversion using Machine Learning*, enabl
   ![J](/ReadmeAssets/J.jpg)
   Sign for J
 
-  ![Z](/ReadmeAssets/Z.jpg)
-  Sign for Z
-
   ![SPACE](/ReadmeAssets/Space.jpg)
   Sign for SPACE.
   
-  ![Fullstop](/ReadmeAssets/Fullstop.jpg)
+  ![Fullstop](/ReadmeAssets/fullstop.jpg)
   Sign for FULLSTOP.
 
-- **Pre-Trained Model Included**:  
-  A **pre-trained model** is provided to allow users to immediately start using the system.  
 - **Flexibility**:  
-  Users can also train their own custom models using the provided scripts and instructions.
+  Users can train their own custom models using the provided scripts and instructions.
 
 ## 🔧 Tech Stack
 - **Languages**: Python
@@ -44,8 +36,6 @@ This project, *Sign Language to Speech Conversion using Machine Learning*, enabl
 ---
 
 ## **Usage**  
-### **Option 1: Use the Pre-Trained Model**  
-You can directly use the pre-trained model (`model.p`) provided in this repository:  
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/sign-language-to-speech.git
@@ -56,10 +46,7 @@ You can directly use the pre-trained model (`model.p`) provided in this reposito
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the `main.py` script.  
-4. Ensure your webcam is functional, and the `model.p` file is in the same directory.  
-
-### **Option 2: Train Your Own Model**  
+    
 To create and train a custom model:  
 1. **Collect a Custom Dataset**:  
    - Run `collectImgs.py` to capture gesture images using your webcam.  
@@ -115,10 +102,7 @@ We believe that collaboration is key to innovation. If you have suggestions for 
 ---
 
 ## **Contributors**  
-1. **[Tanmay Jivnani](https://github.com/tanmayJivnani)**
-2. **[Shravani Verma](https://github.com/Shravknowscoding)**
-3. **[Aishwarya Shendkar](https://github.com/aishwaryaa2603)**
-
+1. **[Muhammad Qadeer]([https://github.com/qadeerj])**
 ---
 
 ## 📝 License
